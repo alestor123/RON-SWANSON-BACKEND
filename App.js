@@ -7,3 +7,4 @@ app.get('/', (req, res) => {
         var num = Math.floor(Math.random() * Math.floor(quote.length));
         res.json(quote[num])
 });
+app.listen(port, () => console.log(`server running at ${port}`))
