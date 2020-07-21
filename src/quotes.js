@@ -63,3 +63,4 @@ module.exports = [
     "If any of you need anything at all, too bad. Deal with your problems yourselves, like adults.",
     "It’s pointless for a human to paint scenes of nature when they can go outside and stand in it."
 ];
+//exporting quotes array
