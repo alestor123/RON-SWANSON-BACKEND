@@ -1,0 +1,19 @@
+{
+  "name": "ronswanson-backend",
+  "version": "1.0.0",
+  "description": "This is a simple ron swanson backend code that will send api as ron swanson quotes for more info refer to README.md",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/RON-SWANSON-BACKEND.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alestor123/RON-SWANSON-BACKEND/issues"
+  },
+  "homepage": "https://github.com/alestor123/RON-SWANSON-BACKEND#readme"
+}
