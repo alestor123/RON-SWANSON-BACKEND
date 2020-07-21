@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/RON-SWANSON-BACKEND/issues"
   },
-  "homepage": "https://github.com/alestor123/RON-SWANSON-BACKEND#readme"
+  "homepage": "https://github.com/alestor123/RON-SWANSON-BACKEND#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
